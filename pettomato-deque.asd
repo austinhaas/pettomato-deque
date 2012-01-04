@@ -2,7 +2,7 @@
   :description "A set of double-ended queue implementations."
   :author "Austin Haas <austin@pettomato.com>"
   :licence "MIT"
-  :version "0.1.0"
+  :version "0.1.1"
   :components ((:module "src"
                 :serial t
                 :components ((:file "package")
