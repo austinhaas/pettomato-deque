@@ -2,7 +2,7 @@
   :description "Test suite for pettomato-deque."
   :author "Austin Haas <austin@pettomato.com>"
   :licence "MIT"
-  :version "0.1.0"
+  :version "0.1.1"
   :depends-on (#:pettomato-deque
                #:fiveam)
   :components ((:module "test"
