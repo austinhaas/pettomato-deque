@@ -1,3 +1,0 @@
-* todo
-** update version numbers
-** upload to Github
